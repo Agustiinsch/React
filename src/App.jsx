@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis hic sed nesciunt voluptate a cum exercitationem eum doloribus et delectus molestiae nostrum, aliquid perspiciatis, voluptatum fuga aut soluta non reprehenderit.
     </>
   )
 }
