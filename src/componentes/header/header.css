@@ -1,0 +1,21 @@
+li{
+    float: left;
+    list-style: none;
+    padding: 5px 20px;
+    
+}
+.header{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 60px;
+    margin: auto;
+    overflow: hidden;
+    background-color: rgb(219, 150, 60);
+}
+.quicksand{
+    font-family: 'Quicksand'; 
+    text-decoration: none;
+
+}
