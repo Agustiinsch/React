@@ -1,21 +1,23 @@
-li{
+* {
+    text-decoration: none;
+}
+
+li {
     float: left;
     list-style: none;
     padding: 5px 20px;
-    
 }
+
 .header{
-    display:flex ;
-    justify-content: center;
+    display: flex;
+    justify-content: space-between;
     align-items: center;
     width: 90%;
-    height: 60px;
     margin: auto;
+    height: 60px;
     overflow: hidden;
-    background-color: rgb(219, 150, 60);
 }
-.quicksand{
-    font-family: 'Quicksand'; 
-    text-decoration: none;
 
+.quicksand {
+    font-family: 'Quicksand', sans-serif;
 }

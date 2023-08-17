@@ -4,12 +4,14 @@ import '../../estilosgen.css'
 
 const MenuEnlaces = () => {
   return (
-    <ul>
-        <li><a href="#">CATEGORIAS</a></li>
-        <li><a href="#">SALONES</a></li>
-        <li><a href="#">IMAGEN PERSONAL</a></li>
-        <li><a href="#">CONTACTO</a></li>
-    </ul>
+    <>
+        <ul>
+            <li><a href="#">Categorías</a></li>
+            <li><a href="#">Salones</a></li>
+            <li><a href="#">Imagen Personal</a></li>
+            <li><a href="#">Contacto</a></li>
+        </ul>
+    </>
   )
 }
 

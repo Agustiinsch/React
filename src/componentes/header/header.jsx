@@ -1,15 +1,16 @@
 import React from 'react'
-import MenuEnlaces from './menuEnlaces'
-import '../../estilosgen.css'
+import MenuEnlaces from './MenuEnlaces'
 import Login from './Login'
+import logo from '../img/logo1.png'
+import '../../estilosgen.css'
 
 const Encabezado = () => {
   return (
-  <div className='header'>
-    <div className='blanco'>Portal de eventos</div>
-    <MenuEnlaces/>
-    <Login/>
-  </div>
+    <div className='header'>
+      <img src={logo} alt='' />
+      <MenuEnlaces/>
+      <Login/>
+    </div>
   )
 }
 
