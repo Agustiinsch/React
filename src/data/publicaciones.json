@@ -1,0 +1,47 @@
+[
+    {"key":"000",
+        "nombre":"estancia la diosa",
+        "localidad":"toruguitas",
+        "telefono":"11 3412-1235",
+        "redes":["https://files.000webhost.com/","@tumami"],
+        "zona":"norte",
+        "descrip":"Nuestro gran comercio es el mejor de la zona, somos los dioses, unos cracks de la comida yankee, en resumen hacemos hamburguesas",
+        "urlfotoportada":"",
+        "categoria":"premium",
+        "descriptext":"Si buscar un gran comercio el cual tenga la posibilidad de tener tremendo pene, este es el lugar indicado"
+    },
+
+    {"key":"001",
+        "nombre":"Tortugas country club",
+        "localidad":"toruguitas",
+        "telefono":"11 2565-9271",
+        "redes":["https://key-drop.com/es/panel/profil","@tupapi"],
+        "zona":"norte",
+        "descrip":"Tortugas Country Club, el primer country del país, es icono de la historia del polo.  Fundado hace 88 años de la mano de Don Antonio Maura y Gamazo quien soñó con crear un club de campo.",
+        "urlfotoportada":"",
+        "categoria":"premium",
+        "descriptext":"Hoy es un lugar de residencia por excelencia y al mismo tiempo centro deportivo orientado al polo. Desde 1930 se disputa este tradicional torneo. "
+    },
+    {"key":"002",
+        "nombre":"Chaza racing club",
+        "localidad":"messilandia",
+        "telefono":"11 2555-9111",
+        "redes":["https://www.youtube.com/watch?v=5LqhlCd2_nE","@chaza"],
+        "zona":"norte",
+        "descrip":"SI PAPA ESTE ES EL CLUB DE CHAZA RACING CLUB RE PIOLA ESTAAAA",
+        "urlfotoportada":"",
+        "categoria":"premium",
+        "descriptext":"Aca laburamos los buenos capooooo"
+    },
+    {"key":"003",
+        "nombre":"La casa del terror",
+        "localidad":"grand bourg",
+        "telefono":"11 1026-3611",
+        "redes":["https://reactjsexample.com/clean-architecture-for-react/","@lacasita"],
+        "zona":"norte",
+        "descrip":"En esta casa cuando las mujeres se asustan salen volando a los brazos de los hombres nashe",
+        "urlfotoportada":"",
+        "categoria":"premium",
+        "descriptext":"Una mujer se asusto una vuelta y se tiro un pedo en la cara de un conejo, anasheeeee "
+    }
+]
